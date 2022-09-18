@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fwt-gallery-app/static/css/main.3a2dc2c4.css",
+    "main.js": "/fwt-gallery-app/static/js/main.a53db51e.js",
+    "static/js/787.d7e7aaf3.chunk.js": "/fwt-gallery-app/static/js/787.d7e7aaf3.chunk.js",
+    "static/media/dark.svg": "/fwt-gallery-app/static/media/dark.403f581a5acb220ed1371178ff780034.svg",
+    "static/media/light.svg": "/fwt-gallery-app/static/media/light.7efac3cbec09ed1764a502709e1ae415.svg",
+    "static/media/logo.svg": "/fwt-gallery-app/static/media/logo.341392e0c316e17646ddea30081fb065.svg",
+    "index.html": "/fwt-gallery-app/index.html",
+    "main.3a2dc2c4.css.map": "/fwt-gallery-app/static/css/main.3a2dc2c4.css.map",
+    "main.a53db51e.js.map": "/fwt-gallery-app/static/js/main.a53db51e.js.map",
+    "787.d7e7aaf3.chunk.js.map": "/fwt-gallery-app/static/js/787.d7e7aaf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a2dc2c4.css",
+    "static/js/main.a53db51e.js"
+  ]
+}
